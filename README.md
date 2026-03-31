@@ -1,3 +1,6 @@
+![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-green)
+![License](https://img.shields.io/badge/License-Apache%202.0-orange)
 # 📱 Reply App – Adaptive UI with Jetpack Compose
 
 ## 🚀 Overview
