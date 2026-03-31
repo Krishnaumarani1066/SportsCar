@@ -1,10 +1,9 @@
 ![Kotlin](https://img.shields.io/badge/Kotlin-Android-blue)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-green)
 ![License](https://img.shields.io/badge/License-Apache%202.0-orange)
-# 📱 Reply App – Adaptive UI with Jetpack Compose
 
 ## 🚀 Overview
-The Reply App is a modern Android application developed using Kotlin and Jetpack Compose. It showcases how to build adaptive and responsive user interfaces that seamlessly adjust across different device sizes including mobile phones, tablets, and large screens.
+The Car App is a modern Android application developed using Kotlin and Jetpack Compose. It showcases how to build adaptive and responsive user interfaces that seamlessly adjust across different device sizes including mobile phones, tablets, and large screens.
 
 This project is based on the official Android training sample and has been enhanced to demonstrate real-world UI adaptability and navigation strategies.
 
@@ -12,7 +11,7 @@ This project is based on the official Android training sample and has been enhan
 
 ## 🎯 Key Highlights
 
-- 📧 Email-style interface with list and detail views
+- 📧 Car-style interface with list and detail views
 - 📐 Adaptive layouts (Single-pane, Two-pane)
 - 🔁 Dynamic navigation based on screen size classes
 - 🎨 Material 3 UI design implementation
